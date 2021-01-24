@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Powered WhatsApp",
+  "version": "1.0.1",
+  "version_name": "",
+  "description": "An extension that speeds up your WhatsApp audios",
+  "icons": {
+    "128": "images/icon128.png"
+  },
+  "browser_action": {
+    "default_title": "Powered WhatsApp",
+    "default_popup": "src/popup/popup.html",
+    "default_icon": "images/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://web.whatsapp.com/"
+      ],
+      "js": [
+        "src/index.js",
+        "src/popup/popup.js"
+      ],
+      "css": [
+        "src/style.css"
+      ]
+    }
+  ]
+}

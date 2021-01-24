@@ -1,0 +1,76 @@
+.msgWhiteToDark {
+    background-color: #242424;
+}
+
+.oneTimeBtn {
+    color: #919191;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    margin-left: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.oneTimeBtn:hover {
+    color: #7c7c7c;
+}
+
+/**/
+
+.oneDotFiveBtn {
+    color: #919191;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    margin-left: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.oneDotFiveBtn:hover {
+    color: #7c7c7c;
+}
+
+/**/
+
+.twoTimesBtn {
+    color: #919191;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    margin-left: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.twoTimesBtn:hover {
+    color: #7c7c7c;
+}
+
+.darkModeBtn {
+    color: #919191;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    margin-left: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.dark {
+    color: #242424;
+    background-color: #242424;
+}

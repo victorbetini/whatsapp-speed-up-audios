@@ -1,0 +1,16 @@
+body {
+    width: 120px;
+    height: 90px;
+}
+
+main a {
+    text-decoration: none;
+    align-content: center;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: #10ce78;
+}
+
+main a:hover {
+    text-decoration: underline;
+}
