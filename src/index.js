@@ -15,7 +15,8 @@ twoTimesBtn.setAttribute('title', '2x Faster');
 
 const interval = setInterval(() => {
 
-    const topMenu = document.querySelector('._2O84H');
+    // header to append the speed controls
+    const topMenu = document.querySelector('._1R3Un');
 
     if (topMenu) {
         clearInterval(interval);
